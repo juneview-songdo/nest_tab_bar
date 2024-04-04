@@ -15,7 +15,7 @@
     ```
 3. start the project by entering the following command.
     ```bash
-    flutter run [execute file path here] -d chrome
+    flutter run lib/app/_/_/interaction/view.blueprint/page/nest_tab_bar/_/view.dart -d chrome
     ```
 
 ## Screenshots
