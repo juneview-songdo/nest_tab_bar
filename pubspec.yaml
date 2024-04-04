@@ -1,7 +1,7 @@
 name: nest_tab_bar
-description: "Description here"
+description: "nest tab bar for flutter"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/nest_tab_bar
 
 version: 1.0.0+1
 
